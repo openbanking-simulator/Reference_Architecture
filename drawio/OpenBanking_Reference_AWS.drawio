@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-03T10:04:42.849Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.81" etag="XZkxzVZppaS2cROncWIC" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-03T10:08:51.120Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.81" etag="F817jKbvHxpOu1EcfTNc" version="14.4.3" type="github">
   <diagram id="Udg6QOafCXX-rQGMyNGL" name="Overview">
     <mxGraphModel dx="2370" dy="1270" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="800" pageHeight="1000" background="#1A212B" math="0" shadow="0">
       <root>
@@ -7,14 +7,14 @@
         <mxCell id="RBmb6j0EzxzfwEMcB2tm-140" value="Data Recipient&lt;br&gt;" style="outlineConnect=0;gradientColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=24;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.mobile_client;fontColor=#FFFFFF;strokeColor=#FFFFFF;fillColor=#1A212B;" vertex="1" parent="1">
           <mxGeometry x="26.5" y="592" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="RBmb6j0EzxzfwEMcB2tm-42" value="Open Banking - Reference Architecture" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontStyle=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="26.5" y="20" width="570" height="40" as="geometry" />
+        <mxCell id="RBmb6j0EzxzfwEMcB2tm-42" value="Open Banking - Reference Architecture" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=36;fontStyle=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="26.5" y="20" width="681" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="RBmb6j0EzxzfwEMcB2tm-43" value="Data Holder on AWS" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="26.5" y="70" width="160" height="20" as="geometry" />
+        <mxCell id="RBmb6j0EzxzfwEMcB2tm-43" value="Data Holder implementation on AWS" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="26.5" y="70" width="400" height="29" as="geometry" />
         </mxCell>
         <mxCell id="RBmb6j0EzxzfwEMcB2tm-44" value="" style="line;strokeWidth=2;html=1;fontSize=14;labelBackgroundColor=none;fontColor=#FAFAFA;strokeColor=#FCFCFC;" vertex="1" parent="1">
-          <mxGeometry x="22.5" y="95" width="1060" height="10" as="geometry" />
+          <mxGeometry x="22.5" y="100" width="1060" height="10" as="geometry" />
         </mxCell>
         <mxCell id="RBmb6j0EzxzfwEMcB2tm-131" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#1A212B;" vertex="1" parent="1">
           <mxGeometry x="176.5" y="180" width="725" height="405" as="geometry" />
