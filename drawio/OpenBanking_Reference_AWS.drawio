@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-03T13:28:39.883Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.81" etag="bMNm5M6qYM9pV9Z2mUkZ" version="14.4.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-03T13:30:07.788Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.81" etag="s2ICFDIXRBC2jCWwM9U6" version="14.4.3" type="github" pages="3">
   <diagram id="Udg6QOafCXX-rQGMyNGL" name="Overview">
-    <mxGraphModel dx="3422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="800" pageHeight="1000" background="#1A212B" math="0" shadow="0">
+    <mxGraphModel dx="3874" dy="939" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="800" pageHeight="1000" background="#1A212B" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -107,7 +107,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Building Blocks" id="CfZz4UvR0K6GLL5aMANm">
-    <mxGraphModel dx="2770" dy="1270" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="800" pageHeight="1000" background="#1A212B" math="0" shadow="0">
+    <mxGraphModel dx="3523" dy="1565" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="800" pageHeight="1000" background="#1A212B" math="0" shadow="0">
       <root>
         <mxCell id="T90aJRSQc2d_bmMc501m-0" />
         <mxCell id="T90aJRSQc2d_bmMc501m-1" parent="T90aJRSQc2d_bmMc501m-0" />
@@ -228,8 +228,8 @@
         <mxCell id="TA72vM7WamiADAk56sp0-10" value="Operational" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=36;fontStyle=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="T90aJRSQc2d_bmMc501m-1">
           <mxGeometry x="3702" y="664" width="210" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="umUYb5vPdnxyOiej0znG-0" value="Building Blocks for Microservices" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=36;fontStyle=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="T90aJRSQc2d_bmMc501m-1">
-          <mxGeometry x="2411" y="36.5" width="590" height="43" as="geometry" />
+        <mxCell id="umUYb5vPdnxyOiej0znG-0" value="Building Blocks for Microservices Implementation" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=36;fontStyle=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="T90aJRSQc2d_bmMc501m-1">
+          <mxGeometry x="2411" y="36.5" width="866" height="43" as="geometry" />
         </mxCell>
         <mxCell id="umUYb5vPdnxyOiej0znG-2" value="" style="line;strokeWidth=2;html=1;fontSize=14;labelBackgroundColor=none;fontColor=#FAFAFA;strokeColor=#FCFCFC;" vertex="1" parent="T90aJRSQc2d_bmMc501m-1">
           <mxGeometry x="2405" y="89.5" width="1786.5" height="10" as="geometry" />
