@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-04T07:55:37.951Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.81" etag="8cBSnrh17Vs-q5YMQPPD" version="14.4.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-04T07:57:52.269Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.81" etag="WvKjhEIZVU7rkTLApYdC" version="14.4.3" type="github" pages="4">
   <diagram id="Udg6QOafCXX-rQGMyNGL" name="Overview">
     <mxGraphModel dx="4499" dy="1061" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="800" pageHeight="1000" background="#1A212B" math="0" shadow="0">
       <root>
@@ -539,6 +539,20 @@
         </mxCell>
         <mxCell id="lXguw3kBR_6qLvmDvg-N-3" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=#252F3D;strokeColor=#FFFFFF;strokeWidth=3;fillColor=none;fontSize=24;fontColor=#FFFFFF;" parent="c8WsB8_NTdjpdUTvwR99-1" vertex="1">
           <mxGeometry x="450" y="321" width="1037" height="183.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Rationale &amp; Pitfalls" id="aMrcRxRdm_UqrlvHVP13">
+    <mxGraphModel dx="4148" dy="1992" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="800" pageHeight="1000" background="#1A212B" math="0" shadow="0">
+      <root>
+        <mxCell id="qiPLxygFMpQ7xPYXwUJX-0" />
+        <mxCell id="qiPLxygFMpQ7xPYXwUJX-1" parent="qiPLxygFMpQ7xPYXwUJX-0" />
+        <mxCell id="qiPLxygFMpQ7xPYXwUJX-14" value="Rationale for using Microservice Architecture &amp;amp; potential pitfalls to watch out" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=36;fontStyle=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="qiPLxygFMpQ7xPYXwUJX-1">
+          <mxGeometry x="-261" y="-382" width="1331" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="qiPLxygFMpQ7xPYXwUJX-15" value="" style="line;strokeWidth=2;html=1;fontSize=14;labelBackgroundColor=none;fontColor=#FAFAFA;strokeColor=#FCFCFC;" vertex="1" parent="qiPLxygFMpQ7xPYXwUJX-1">
+          <mxGeometry x="-267" y="-329" width="2253" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
